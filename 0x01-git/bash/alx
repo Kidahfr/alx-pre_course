@@ -1,9 +1,7 @@
 #!/bin/bash
-echo "ALX School is so cool!"
 <<<<<<< HEAD
+echo "ALX School is so cool!"
 =======
 echo "ALX School"
 
 >>>>>>> update_script
-=======
->>>>>>> parent of aa86eb0 (Merge branch)
